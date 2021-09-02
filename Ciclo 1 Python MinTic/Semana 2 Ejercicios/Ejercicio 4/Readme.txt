@@ -1,0 +1,1 @@
+Elabore programa en Python que imprima la suma de los números enteros de 300 hasta 5000

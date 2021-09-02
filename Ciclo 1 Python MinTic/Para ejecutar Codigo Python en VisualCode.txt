@@ -1,0 +1,12 @@
+Instale la extensión Code Runner .
+Abra el archivo de código Python en el Editor de texto.
+Para ejecutar el código Python:
+usar atajo Ctrl+Alt+N
+o presione F1y luego seleccione / escriba Run Code,
+o haga clic derecho en el Editor de texto y luego haga clic Run Codeen el menú contextual del editor
+o haga Run Codeclic en el botón en el menú de título del editor
+o haga Run Codeclic en el botón en el menú contextual del explorador de archivos
+Para detener el código en ejecución:
+usar atajo Ctrl+Alt+M
+o presione F1 y luego seleccione / escribaStop Code Run
+o haga clic derecho en el canal de salida y luego haga clic Stop Code Runen el menú contextual
